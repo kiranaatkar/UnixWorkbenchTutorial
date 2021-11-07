@@ -1,0 +1,29 @@
+commit 4ff838578188f08dbf206c823a32b4a1e3ff7d20
+Author: kiranaatkar <kiranaatkar@gmail.com>
+Date:   Sun Nov 7 16:09:40 2021 +0000
+
+    added git ignore file
+
+commit 0d42c45ca45664166af2bf3b1a3954723133add6
+Author: kiranaatkar <kiranaatkar@gmail.com>
+Date:   Sun Nov 7 15:47:04 2021 +0000
+
+    Adding both files now
+
+commit 85a5ef17497c0461b869016cfc007b1a5a495cc9
+Author: kiranaatkar <kiranaatkar@gmail.com>
+Date:   Sun Nov 7 15:44:33 2021 +0000
+
+    "forgot to add the modified readme change to staging"
+
+commit a0b2afa2ec17062359ebf0683e18ef61437f61f8
+Author: kiranaatkar <kiranaatkar@gmail.com>
+Date:   Sun Nov 7 15:44:14 2021 +0000
+
+    Added file and modified readme
+
+commit 27efbd1fe4f0a12467bbc30c705f27c355bb2232
+Author: kiranaatkar <kiranaatkar@gmail.com>
+Date:   Sun Nov 7 15:42:46 2021 +0000
+
+    Adding the readme file
